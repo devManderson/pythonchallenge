@@ -1073,3 +1073,7 @@ aa.
 """
 
 # What to do now? ^^
+textArray = text.split("\n");
+lines = len(textArray)
+
+print(str(lines))
